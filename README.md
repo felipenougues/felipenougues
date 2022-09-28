@@ -4,7 +4,8 @@ FullStack Developer | React | Node | Express | Sequelize
 
 
 
-## 📫 How to reach me:
+## 🌱  How to reach me:
+
 <p align="left">  
 <a href="https://twitter.com/felipenougues" target="_blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
 <a href="https://linkedin.com/in/felipe-nougues-b8b100116" target="_blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
