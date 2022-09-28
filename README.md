@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there I'm Felipe 👋
 
+## Let's talk
+<p align="left">  
+<a href="https://twitter.com/felipenougues" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/felipe-nougues-b8b100116" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/felipenougues" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+</p>
 <!--
 **felipenougues/felipenougues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
