@@ -1,4 +1,4 @@
-### Hi there I'm Felipe 👋
+### Hi there I'm Felipe 👋⚡
 
 FullStack Developer | React | Node | Express | Sequelize
 
