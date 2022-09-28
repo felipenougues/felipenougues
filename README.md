@@ -3,7 +3,7 @@
 ## Let's talk
 <p align="left">  
 <a href="https://twitter.com/felipenougues" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/felipenougues" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://linkedin.com/in/felipe-nougues-b8b100116" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/felipenougues" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 </p>
 <!--
