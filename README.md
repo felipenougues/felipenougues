@@ -3,8 +3,6 @@
 FullStack Developer | React | Node | Express | Sequelize
 
 
-Specialize in React
-
 
 
 ## 🌱  How to reach me:
